@@ -2,7 +2,7 @@
 
 CodeVerse is an online code editor built using React.js, allowing users to write, share, and collaborate on HTML, CSS, and JavaScript code snippets. This repository contains the source code for the CodeVerse application.
 
-![Alt Text](public/CodeVerse ScreenShot.jpg)
+![Preview] (public/CodeVerse ScreenShot.jpg)
 
 
 ## Demo
