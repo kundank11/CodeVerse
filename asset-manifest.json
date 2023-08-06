@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeVerse/static/css/main.24b3d75a.css",
+    "main.js": "/CodeVerse/static/js/main.9e512091.js",
+    "index.html": "/CodeVerse/index.html",
+    "main.24b3d75a.css.map": "/CodeVerse/static/css/main.24b3d75a.css.map",
+    "main.9e512091.js.map": "/CodeVerse/static/js/main.9e512091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b3d75a.css",
+    "static/js/main.9e512091.js"
+  ]
+}
